@@ -28,3 +28,4 @@
         and AF.user_id = #{currentUser.id}
     </select>
 </mapper>
+#test
